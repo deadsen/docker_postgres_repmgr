@@ -20,5 +20,5 @@ This docker image uses the following environment variables (with their defaults 
 
 My modifications:
    env variables:
- - 'PGPOOL_PORT' - for some failover checks
+ - `PGPOOL_PORT` - for some failover checks
    
